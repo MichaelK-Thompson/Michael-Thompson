@@ -1,2 +1,2 @@
-# Michael-Thompson
+# MichaelK-Thompson
 My landing page repository
